@@ -205,10 +205,10 @@ h3 {
 button {
   font-size: 2rem;
   background-color: unset;
-  border-radius: 50%;
   border: none;
   padding: 0.4rem 1.4rem;
   aspect-ratio: 1;
+  border-radius: 50%;
   background-color: aliceblue;
 }
 
